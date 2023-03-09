@@ -15,3 +15,5 @@ def print_nums():
 print_nums()
     
 
+def taki_code():
+    print('My func')
