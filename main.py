@@ -15,3 +15,6 @@ def print_nums():
 print_nums()
     
 
+def my_code():
+    print('My func')
+    
