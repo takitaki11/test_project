@@ -4,6 +4,12 @@ def hello():
 hello()
 
 
+def goodbye():
+    print('good bye world')
+
+goodbye()
+
 def print_nums():
     print('123')
     
+
